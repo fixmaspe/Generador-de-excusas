@@ -1,0 +1,9 @@
+body {
+    font-family: 'Ranchers', cursive;
+    font-size: 40px;
+        margin: auto;
+    width: fit-content;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
