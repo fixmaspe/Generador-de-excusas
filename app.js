@@ -1,9 +1,9 @@
 
-let who = ["Mamá", "Mi perrito", "La tarantula", "El abuelo"];
+let who = ["Mamá", "Mi perrito", "La tarantula", "Max"];
 
-let what = ["enojado", "aplasto", "rompio", "destrozo"];
+let what = ["la mojo", "la aplasto", "la rompio", "la destrozo"];
 
-let when = ["justo ahora", "cuando terminé", "durante mi almuerzo", "mientras oraba"];
+let when = ["justo ahora", "cuando terminé", "durante mi almuerzo", "mientras me bañaba"];
 
 function generator (parts) {  
     
